@@ -2,10 +2,11 @@
 
 ## 🎬 Demonstração em Vídeo
 
-
-![Demonstração do "Hello World da área de IoT](./img/IMG_0220.gif)
+<img src="./img/IMG_0220.gif" style="width: 1280px;">
 
 ### Explicação 
+
+ Projeto para iniciantes, com a finalidade de demonstrar como funciona o básico de cada componente. Desenvolvido na primeira aula prática de IOT
 
 
 ## Código
