@@ -1,11 +1,10 @@
-#Preview
+# Preview
 
 ## 🎬 Demonstração em Vídeo
 
+https://github.com/rgrrb/iot-farol/blob/main/img/IMG_0220.mp4
 
-![Demonstração do "Hello World da área de IoT](https://github.com/rgrrb/iot-farol/blob/main/img/IMG_0220.mp4)
-
-##Código
+## Código
 
 ```
 int farol = 13;
