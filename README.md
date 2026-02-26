@@ -2,7 +2,9 @@
 
 ## 🎬 Demonstração em Vídeo
 
-<img src="./img/IMG_0220.gif" style="width: 1280px;">
+https://github.com/user-attachments/assets/dcb3ac13-15e7-4191-a7af-5b9b85c99618
+
+
 
 ### Explicação 
 
