@@ -2,7 +2,7 @@
 
 ## 🎬 Demonstração em Vídeo
 
-https://github.com/rgrrb/iot-farol/blob/main/img/IMG_0220.mp4
+<video src="./img/IMG_0220.mp4" controls width="600"></video>
 
 ## Código
 
