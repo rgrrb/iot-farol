@@ -2,7 +2,11 @@
 
 ## 🎬 Demonstração em Vídeo
 
-<video src="./img/IMG_0220.mp4" controls width="600"></video>
+
+![Demonstração do "Hello World da área de IoT](./img/IMG_0220.gif)
+
+### Explicação 
+
 
 ## Código
 
